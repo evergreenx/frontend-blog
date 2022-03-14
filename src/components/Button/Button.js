@@ -1,11 +1,13 @@
-import React from 'react'
+import React from "react";
+import "./Button.css";
 
 const Button = (props) => {
-
-    const { variant = 'primary', children, ...rest } = props}
+  const { variant = "primary", children, ...rest } = props;
   return (
-    <div>Button</div>
-  )
-}
+    <div className={`button ${variant}`} {...rest}>
+      {children}
+    </div>
+  );
+};
 
-export default Button
+export default Button;

@@ -1,0 +1,27 @@
+.Input {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  padding: 5px;
+  margin: 0;
+  border-radius: 30px;
+  border: 1px solid #ccc;
+  background: none;
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  color: inherit;
+  outline: none;
+  resize: none;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+.Input-Small {
+  width: 40%;
+  background-color: blue;
+}
+.large {
+  width: 60%;
+}
