@@ -18,10 +18,12 @@
   overflow: hidden;
 }
 
-.Input-Small {
+.small {
   width: 40%;
-  background-color: blue;
+  padding: 10px 0 10px 0;
 }
 .large {
   width: 60%;
+  padding: 15px 0 15px 0;
+
 }

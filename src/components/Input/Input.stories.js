@@ -2,8 +2,9 @@ import Input from '../Input/Input'
 
 
 export default {
-    title: "Input",
+    title: "Form/Input",
     component: Input,
 }
 
-export const Small = () => <Input variant="input-small" />
+export const Small = () => <Input size="small" />
+export const Large = () => <Input size="large" />
