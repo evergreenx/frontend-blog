@@ -1,12 +1,30 @@
-import React from 'react'
+import React from "react";
+import { Header, Links, Link } from "./Header.styled";
 
 const Index = () => {
-  return (
-    <>
-    Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi modi nobis minima inventore iste, ab fuga, earum, fugit recusandae quidem corporis neque laborum consequatur facilis assumenda officia quibusdam eius vitae.
-    
-    </>
-  )
-}
+  const links = [
+    {
+      name: "Home",
+      path: "/",
+    },
 
-export default Index
+    {
+      name: "About",
+      path: "/about",
+    },
+  ];
+  return (
+    <Header>
+      Logo
+      <Links>
+        {links.map((link) => (
+          <Link key={link.name}>
+            <a href={link.path}>{link.name}</a>
+          </Link>
+        ))}
+      </Links>
+    </Header>
+  );
+};
+
+export default Index;
