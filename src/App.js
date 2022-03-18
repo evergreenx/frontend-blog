@@ -34,7 +34,9 @@ function App() {
                       height="360"
                       class="rounded mb-3 hover:opacity-70 transition duration-300 ease-in-out"
                       alt="Styling CSS"
-                      src="https://source.unsplash.com/INHtWKpBTsA/640x360"
+                      // src={
+                      //   post.attributes?.cover_image.url
+                      // }
                     />
                   </a>
                 </div>
