@@ -35,7 +35,7 @@ function App() {
   
     <div class="md:mr-4 mb-2 md:mb-0 md:w-4/12 ">
       <a class="bg-gray-100" href="/blog/2018-12-29-writing-with-markdown/">
-        <img width="640" height="360" class="rounded mb-3 hover:opacity-70 transition duration-300 ease-in-out" alt="Writing With Markdown" src="/assets/images/unsplash-CTivHyiTbFw-640x360.jpeg"></a>
+        <img width="640" height="360" class="rounded mb-3 hover:opacity-70 transition duration-300 ease-in-out" alt="Writing With Markdown" src="/assets/images/unsplash-CTivHyiTbFw-640x360.jpeg" /></a>
     </div>
   
 
@@ -52,7 +52,7 @@ function App() {
 
 <div class="flex items-center mr-2 -ml-4">
   
-    <img width="28" height="28" class="rounded-full border-white border-2" src="/assets/images/author/sage-kirk.jpg" alt="Sage Kirk">
+    <img width="28" height="28" class="rounded-full border-white border-2" src="/assets/images/author/sage-kirk.jpg" alt="Sage Kirk" />
   
 
   
@@ -67,7 +67,7 @@ function App() {
 
 <div class="flex items-center mr-2 -ml-4">
   
-    <img width="28" height="28" class="rounded-full border-white border-2" src="/assets/images/author/mike-vance.jpg" alt="Mike Vance">
+    <img width="28" height="28" class="rounded-full border-white border-2" src="/assets/images/author/mike-vance.jpg" alt="Mike Vance" />
   
 
   
@@ -108,7 +108,7 @@ function App() {
   
     <div class="md:mr-4 mb-2 md:mb-0 md:w-4/12 ">
       <a class="bg-gray-100" href="/blog/2018-12-29-styling-css/">
-        <img width="640" height="360" class="rounded mb-3 hover:opacity-70 transition duration-300 ease-in-out" alt="Styling CSS" src="https://source.unsplash.com/INHtWKpBTsA/640x360"></a>
+        <img width="640" height="360" class="rounded mb-3 hover:opacity-70 transition duration-300 ease-in-out" alt="Styling CSS" src="https://source.unsplash.com/INHtWKpBTsA/640x360" /></a>
     </div>
   
 
@@ -125,7 +125,7 @@ function App() {
 
 <div class="flex items-center mr-2 -ml-4">
   
-    <img width="28" height="28" class="rounded-full border-white border-2" src="/assets/images/author/mike-vance.jpg" alt="Mike Vance">
+    <img width="28" height="28" class="rounded-full border-white border-2" src="/assets/images/author/mike-vance.jpg" alt="Mike Vance" />
   
 
   
@@ -164,7 +164,7 @@ function App() {
   
     <div class="md:mr-4 mb-2 md:mb-0 md:w-4/12 ">
       <a class="bg-gray-100" href="/blog/2018-12-29-hosting-your-static-site/">
-        <img width="640" height="360" class="rounded mb-3 hover:opacity-70 transition duration-300 ease-in-out" alt="Hosting Your Static Site" src="https://source.unsplash.com/y3PdLg_zSDs/640x360"></a>
+        <img width="640" height="360" class="rounded mb-3 hover:opacity-70 transition duration-300 ease-in-out" alt="Hosting Your Static Site" src="https://source.unsplash.com/y3PdLg_zSDs/640x360" /></a>
     </div>
   
 
@@ -181,7 +181,7 @@ function App() {
 
 <div class="flex items-center mr-2 -ml-4">
   
-    <img width="28" height="28" class="rounded-full border-white border-2" src="/assets/images/author/sage-kirk.jpg" alt="Sage Kirk">
+    <img width="28" height="28" class="rounded-full border-white border-2" src="/assets/images/author/sage-kirk.jpg" alt="Sage Kirk" />
   
 
   
@@ -227,7 +227,7 @@ function App() {
   
     <div class="md:mr-4 mb-2 md:mb-0 md:w-4/12 ">
       <a class="bg-gray-100" href="/blog/2018-12-20-designing-your-brand/">
-        <img width="640" height="360" class="rounded mb-3 hover:opacity-70 transition duration-300 ease-in-out" alt="Designing Your Brand" src="https://source.unsplash.com/YmQ0-nmWcV0/640x360"></a>
+        <img width="640" height="360" class="rounded mb-3 hover:opacity-70 transition duration-300 ease-in-out" alt="Designing Your Brand" src="https://source.unsplash.com/YmQ0-nmWcV0/640x360" /></a>
     </div>
   
 
