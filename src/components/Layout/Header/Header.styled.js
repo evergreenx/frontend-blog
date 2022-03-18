@@ -6,6 +6,11 @@ export const Header = styled.header`
   display: flex;
   align-items: center;
   justify-content: space-between;
+  height: 100px;
+  background-color: #fff;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  position: sticky;
+  padding: 0 20px;
 
   & a {
     color: #333;
