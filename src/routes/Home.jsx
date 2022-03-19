@@ -12,7 +12,7 @@ function Home() {
       sort: ["title:asc"],
 
       populate: "*",
-      fields: ["title", "body", "publishedAt"],
+      fields: ["title" , "publishedAt" ,"headline"],
       publicationState: "live",
       locale: ["en"],
     },
@@ -72,7 +72,7 @@ function Home() {
                     </Link>
 
                     <p class="text-base font-light text-gray-600 mb-4">
-                      {post.attributes.body}
+                      {post.attributes.headline}
                     </p>
 
                     <div class="mb-2">

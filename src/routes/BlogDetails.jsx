@@ -17,7 +17,7 @@ const BlogDetails = () => {
     <>
       {!data && <div>Loading...</div>}
       {error && <div>Failed to load</div>}
-      <div className="container p-4 w-full bg-red-300 mx-auto">
+      <div className="container p-4 w-full mx-auto">
         <div className="header-content flex justify-center items-center  flex-col">
           <p className="date text-sm font-semibold capitalize">
             {data &&
@@ -40,7 +40,7 @@ const BlogDetails = () => {
           </div>
 
 
-          <div className="content">
+          <div className="content py-5">
 
 
             
